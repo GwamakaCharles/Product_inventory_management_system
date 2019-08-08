@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-library", "test-librar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app", "app\app.csproj", "{4D84F75A-826D-4C4F-AEFD-5E115D502A88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library.common", "library.common\library.common.csproj", "{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{4D84F75A-826D-4C4F-AEFD-5E115D502A88}.Release|x64.Build.0 = Release|Any CPU
 		{4D84F75A-826D-4C4F-AEFD-5E115D502A88}.Release|x86.ActiveCfg = Release|Any CPU
 		{4D84F75A-826D-4C4F-AEFD-5E115D502A88}.Release|x86.Build.0 = Release|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Debug|x64.Build.0 = Debug|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Debug|x86.Build.0 = Debug|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Release|x64.ActiveCfg = Release|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Release|x64.Build.0 = Release|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Release|x86.ActiveCfg = Release|Any CPU
+		{BF410FA2-F44F-49AD-80FC-F0CDEF382F68}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

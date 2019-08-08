@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace app
 {
@@ -6,12 +7,7 @@ namespace app
     {
         static void Main(string[] args)
         {
-
-            int[] numbers = {1,2,3,4,5,6,7};
-            foreach (int num in numbers)
-            {
-                Console.WriteLine(num);
-            }
+            var presidents = new LinkedList<int>();
         }
     }
 }
